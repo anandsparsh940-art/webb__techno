@@ -1,0 +1,42 @@
+<html>
+<head>
+<title>CIA web technologies</title>
+<style>
+p{text-align:center;color:red;}
+.container{
+  display:flex;
+  background-color:red;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
+.container div{
+  background-color:#f1f1f1f1;
+  margin:10px;
+  padding:20px;
+  font-size:24px;
+}
+.box{
+   margin:30px;     /*margin*/
+   border:5px solid black;   /*border*/
+   padding:30px;/*padding*/
+   width:150px;
+   background-color:orange;    /*content*/
+   }
+</style>
+</head>
+<body style="background-color: green;">
+ <background-color:blue></background-color:black>
+<h1><u>William Shakespeare</u></h1>
+<div class="container">
+<div style="flex-grow: 1">item 1</div>
+<div style="flex-grow: 1">item 2</div>
+<div style="flex-grow: 1">item 3</div>
+</div>
+</br><img src="C:\Users\anand\Downloads\William.webp"width="300"height="400"></br>
+<br><a href="file:///C:/Users/anand/OneDrive/Desktop/reponsive%20website/h.html">visit</a></br>
+<p style="color: black;">william shakespeare is the greatest litriary genius of his era his works are famous all around the world</p>
+<div class="div1">div tag</div>
+<div class="div2">www.google.com</div>
+</body>
+</html>
